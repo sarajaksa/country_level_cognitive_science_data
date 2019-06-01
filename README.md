@@ -6,7 +6,7 @@ So I decided, that when I come accross some research like that again, I will con
 
 ## List of Articles:
 
-File: lee2018personality.csv
-DOI: 10.1002/per.2142
-APA citation: Lee, K., Ashton, M. C., Griep, Y., & Edmonds, M. (2018). Personality, religion, and politics: An investigation in 33 countries. European Journal of Personality, 32(2), 100-115.
-Variables: political orientation, religiosity, HEXACO personality 
+* File: lee2018personality.csv
+* DOI: 10.1002/per.2142
+* APA citation: Lee, K., Ashton, M. C., Griep, Y., & Edmonds, M. (2018). Personality, religion, and politics: An investigation in 33 countries. European Journal of Personality, 32(2), 100-115.
+* Variables: political orientation, religiosity, HEXACO personality 
