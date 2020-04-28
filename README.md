@@ -14,4 +14,8 @@ So I decided, that when I come accross some research like that again, I will con
 * File: yilmaz2019link.csv
 * LINK: http://journal.sjdm.org/18/181212/jdm181212.html
 * APA citation: Yilmaz, O., & Alper, S. (2019). The link between intuitive thinking and social conservatism is stronger in WEIRD societies. Judgment and Decision Making, 14(2), 156-169. 
-* Varibales: CRT, morals, political orientation 
+* Varibales: CRT, morals, political orientation
+
+* File: hofstede2015website.csv
+* Link: https://geerthofstede.com/research-and-vsm/dimension-data-matrix/
+* Variables:  Power, individualism, masculinity, uncertanty, long term, indulgence
